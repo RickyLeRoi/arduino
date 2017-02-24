@@ -1,4 +1,4 @@
-/** AXT (Arduino Xmas Tree) by Riccardo **/
+/** Arduino Xmas Tree by Riccardo **/
 
 int altop = 8;
 int pot = 2;
